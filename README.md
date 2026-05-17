@@ -36,4 +36,4 @@ Bottom:
 <img width="720" height="720" alt="Screenshot 2026-05-16 at 8 22 23 PM" src="https://github.com/user-attachments/assets/c1ad8c0d-13b4-45b7-a05b-7460ceac1c9b" />
 
 
-This project is open source so feel free to make any revisions or improvements on it to use as either personal or commercial use!
+This project is open source so feel free to make any revisions or improvements on it for either personal or commercial use.
